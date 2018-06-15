@@ -2,7 +2,7 @@
 
 wo cao ni ma ge lao bi bi 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ni kan ni ma le ge bi
 
 ### Markdown
 
